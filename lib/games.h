@@ -22,5 +22,6 @@
 #include "Object.h"
 #include "Boundary.h"
 #include "Font.h"
+#include "Game.h"
 
 #endif /* GAMES_H_ */

@@ -1,13 +1,12 @@
 #include <iostream>
 
 #include "lib/games.h"
-#include "Game.h"
+
 using namespace std;
 
 int main(int argc, char* argv[]){
 
-	Game game;
-	game.run();
+	Game test(540, 400, "TEST");
 	return 0;
 
 }
